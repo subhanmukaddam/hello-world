@@ -1,0 +1,6 @@
+# Sample Respiratory For Learning Purposes
+
+x = input('Enter the value for x: ')
+y = input('Enter the value for y: ')
+z = x + y
+print(z)
